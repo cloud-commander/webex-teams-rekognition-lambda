@@ -103,7 +103,7 @@ Enter a name for the webhook, the targetUrl should be the address of your API an
 
 At this point, all being well, when you send a message to your bot from Webex teams it should respond to you.
 
-![Success](\images\parliament.gif)
+![Success](https://github.com/cmsgdiav/webex-teams-rekognition-lambda/blob/master/parliament.gif)
 
 But invariably something wont be quite right!
 
