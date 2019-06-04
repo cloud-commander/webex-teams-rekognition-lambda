@@ -95,8 +95,6 @@ Webex Teams needs to know how it reach our Lambda function in order to invoke it
 
 You can create the webhook by going to the [Webex Developer site](https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook).
 
-![Webexteamsbot](\images\image4.PNG)
-
 Make sure you are using the bot token in the bearer field which you will have noted down when registering the bot.
 
 Enter a name for the webhook, the targetUrl should be the address of your API and enter ***all*** in the resource and event boxes which gives the webhook access to all features.
