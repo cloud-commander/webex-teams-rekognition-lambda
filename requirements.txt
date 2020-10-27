@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 autopep8==1.4.2
 configparser==3.5.0
-cryptography==2.1.4
+cryptography==3.2
 enum34==1.1.6
 future==0.17.0
 futures==3.2.0
